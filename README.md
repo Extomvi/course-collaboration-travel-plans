@@ -1,3 +1,5 @@
-# Travel Destinations
+# Travel Plans
 
 A simple app to keep track of destinations I'd like to visit.
+
+Made with CSS
